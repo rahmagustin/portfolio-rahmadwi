@@ -441,35 +441,7 @@ html {
         color: #000000; }
 
 /* =================== Skills Starts Here =================== */
-.skills .skii-div {
-  padding: 50px 50px; }
-  @media screen and (max-width: 767px) {
-    .skills .skii-div {
-      padding: 50px; } }
-  .skills .title {
-    margin-bottom: 20px; }
-    .skills .row .title h2 {
-      text-align: center;
-      font-weight: 600;
-      font-size: 1.4rem;
-      margin-bottom: 5px; }
-    .skills .title p {
-      font-weight: 500;
-      font-size: .9rem; }
-  .skills .skii-div ul {
-    margin-top: 25px; }
-    .skills .skii-div ul li {
-      font-weight: 600;
-      font-size: .9rem;
-      margin-bottom: 30px; }
-      .skills .skii-div ul li label {
-        margin-bottom: 15px; }
-      .skills .skii-div ul li .bg-warning {
-        background-color: #070 !important; }
-.skills .tech-skill {
-  background-color: #fff; }
-.skills .pro-skill {
-  background-color: #f9fafc; }
+
 
 /* =================== Services Starts Here =================== */
 .services {
